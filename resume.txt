@@ -1,0 +1,29 @@
+Design and Prototyping
+Rapid idea prototyping and simple design using the latest tools and frameworks
+
+balsamiq
+bootstrap 
+Jquery UI
+
+Backend development
+Dynamic application development using Ruby on Rails.
+Relational Databases
+Postgresql
+MVC
+RESTful applications
+Ajax 
+TDD
+  Rspec 
+  Capybara
+
+Category 3 (Collaborative work)
+Github development workflow
+Pivotal tracker
+Agile Development 
+Scrum 
+
+Extra Category
+MVC model
+Preferred Development enviroment:
+Vim + Tmux
+  Link to development enviroment 
